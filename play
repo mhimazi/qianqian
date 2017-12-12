@@ -1,0 +1,84 @@
+{
+  "showapi_res_code": 0,
+  "showapi_res_error": "",
+  "showapi_res_body": {
+    "ret_code": 0,
+    "pagebean": {
+      "songlist": [
+        {
+          "songname": "电台情歌 (《从你的全世界路过》电影电台版推广曲)",
+          "seconds": 195,
+          "albummid": "002pCFMW42h3jk",
+          "songid": 108709929,
+          "singerid": 12530,
+          "albumpic_big": "http://i.gtimg.cn/music/photo/mid_album_300/j/k/002pCFMW42h3jk.jpg",
+          "albumpic_small": "http://i.gtimg.cn/music/photo/mid_album_90/j/k/002pCFMW42h3jk.jpg",
+          "downUrl": "http://dl.stream.qqmusic.qq.com/108709929.mp3?vkey=F7D0C6613F0B7257F47A7C9E413096FB76A3D9EDDF557794FC39298232B7DBE1CCA1147097961C5530195D12E734357D2A3A03F77A32FB04&guid=2718671044",
+          "url": "http://ws.stream.qqmusic.qq.com/108709929.m4a?fromtag=46",
+          "singername": "邓超",
+          "albumid": 1626434
+        },
+        {
+          "songname": "It's Love",
+          "seconds": 235,
+          "albummid": "001B5muu4V27yN",
+          "songid": 108753430,
+          "singerid": 199515,
+          "albumpic_big": "http://i.gtimg.cn/music/photo/mid_album_300/y/N/001B5muu4V27yN.jpg",
+          "albumpic_small": "http://i.gtimg.cn/music/photo/mid_album_90/y/N/001B5muu4V27yN.jpg",
+          "downUrl": "http://dl.stream.qqmusic.qq.com/108753430.mp3?vkey=F7D0C6613F0B7257F47A7C9E413096FB76A3D9EDDF557794FC39298232B7DBE1CCA1147097961C5530195D12E734357D2A3A03F77A32FB04&guid=2718671044",
+          "url": "http://ws.stream.qqmusic.qq.com/108753430.m4a?fromtag=46",
+          "singername": "张碧晨",
+          "albumid": 1631710
+        },
+        {
+          "songname": "翻篇",
+          "seconds": 211,
+          "albummid": "0001C4SU1kwNWF",
+          "songid": 108691935,
+          "singerid": 4545,
+          "albumpic_big": "http://i.gtimg.cn/music/photo/mid_album_300/W/F/0001C4SU1kwNWF.jpg",
+          "albumpic_small": "http://i.gtimg.cn/music/photo/mid_album_90/W/F/0001C4SU1kwNWF.jpg",
+          "downUrl": "http://dl.stream.qqmusic.qq.com/108691935.mp3?vkey=F7D0C6613F0B7257F47A7C9E413096FB76A3D9EDDF557794FC39298232B7DBE1CCA1147097961C5530195D12E734357D2A3A03F77A32FB04&guid=2718671044",
+          "url": "http://ws.stream.qqmusic.qq.com/108691935.m4a?fromtag=46",
+          "singername": "本兮",
+          "albumid": 1624107
+        },
+        {
+          "songname": "人间沙 (《爵迹》电影片尾曲)",
+          "seconds": 294,
+          "albummid": "001fPTRh03XrmP",
+          "songid": 108748521,
+          "singerid": 166260,
+          "albumpic_big": "http://i.gtimg.cn/music/photo/mid_album_300/m/P/001fPTRh03XrmP.jpg",
+          "albumpic_small": "http://i.gtimg.cn/music/photo/mid_album_90/m/P/001fPTRh03XrmP.jpg",
+          "downUrl": "http://dl.stream.qqmusic.qq.com/108748521.mp3?vkey=F7D0C6613F0B7257F47A7C9E413096FB76A3D9EDDF557794FC39298232B7DBE1CCA1147097961C5530195D12E734357D2A3A03F77A32FB04&guid=2718671044",
+          "url": "http://ws.stream.qqmusic.qq.com/108748521.m4a?fromtag=46",
+          "singername": "陈学冬",
+          "albumid": 1630996
+        },
+        {
+          "songname": "魔鬼中的天使 (原唱：田馥甄)",
+          "seconds": 237,
+          "albummid": "0016NiGO0dVXZ7",
+          "songid": 108029927,
+          "singerid": 31035,
+          "albumpic_big": "http://i.gtimg.cn/music/photo/mid_album_300/Z/7/0016NiGO0dVXZ7.jpg",
+          "albumpic_small": "http://i.gtimg.cn/music/photo/mid_album_90/Z/7/0016NiGO0dVXZ7.jpg",
+          "downUrl": "http://dl.stream.qqmusic.qq.com/108029927.mp3?vkey=F7D0C6613F0B7257F47A7C9E413096FB76A3D9EDDF557794FC39298232B7DBE1CCA1147097961C5530195D12E734357D2A3A03F77A32FB04&guid=2718671044",
+          "url": "http://ws.stream.qqmusic.qq.com/108029927.m4a?fromtag=46",
+          "singername": "简弘亦",
+          "albumid": 1555450
+        }
+      ],
+      "total_song_num": 100,
+      "ret_code": 0,
+      "color": 0,
+      "cur_song_num": 100,
+      "comment_num": 1024,
+      "currentPage": 1,
+      "song_begin": 0,
+      "totalpage": 1
+    }
+  }
+}
